@@ -1,13 +1,13 @@
 # Projeto: Classificação de sentimentos com MLOps
 
-## Etapas do projeto
+## Etapas do projeto:
 
-## Exploração de dados
+### Exploração de dados
 
-## Construção da pipe
+### Construção da pipe
 
-## Deploy
+### Deploy
 
-## Testes automatizados
+### Testes automatizados
 
-## Monitoramento
+### Monitoramento
