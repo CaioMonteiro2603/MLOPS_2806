@@ -1,0 +1,22 @@
+artifact_path: file:///c:/Users/lucia/OneDrive/Documentos/Doutorado/ProjetoTeste/notebooks/mlruns/969179299385538657/models/m-49d528d523eb4858bac9241bd2c3778d/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.8
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.1.1
+model_id: m-49d528d523eb4858bac9241bd2c3778d
+model_size_bytes: 2251
+model_uuid: m-49d528d523eb4858bac9241bd2c3778d
+prompts: null
+run_id: de5cae9121314a1f9a61a9da56184987
+utc_time_created: '2025-06-28 14:48:25.715066'

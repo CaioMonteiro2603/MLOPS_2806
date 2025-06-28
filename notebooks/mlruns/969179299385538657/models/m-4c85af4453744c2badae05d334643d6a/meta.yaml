@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/lucia/OneDrive/Documentos/Doutorado/ProjetoTeste/notebooks/mlruns/969179299385538657/models/m-4c85af4453744c2badae05d334643d6a/artifacts
+creation_timestamp: 1751120503041
+experiment_id: '969179299385538657'
+last_updated_timestamp: 1751120512955
+model_id: m-4c85af4453744c2badae05d334643d6a
+model_type: null
+name: modelo_sentimento
+source_run_id: 20b71e9faf59407f91833d596197603a
+status: 2
+status_message: null
